@@ -1,0 +1,5 @@
+1)fine tune resnet 15 on a custom image dataset using feature extraction and unfreezing layers.
+2)same for mobilenet.
+3)build a word label lstm modelusing tokenization and padding to predict next word in user entered sentences .
+4) Extract spatial features frame by frame from videoclips using a pretrained cnn then feed those feature vectors into an lstm network to classify human actions of video content
+5)use a CNN Encoder to extract image features and lstm decoder which sequentially generates nl descriptions of an image.
